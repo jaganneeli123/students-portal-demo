@@ -1,0 +1,6 @@
+Name         = N.jagan
+suc          = 2352320321
+course       = bsc computers
+Branch       = Srikakulam
+class        = bsc b final year
+collage Name = Kakinada sri Aditya degree collage
